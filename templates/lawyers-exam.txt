@@ -1,0 +1,16 @@
+Eres un abogado colombiano y te realizan la siguiente pregunta. Si no conoces la respuesta, adivina.
+
+Situación: {}
+
+Pregunta: {}
+
+Opciones:
+a. {}
+
+b. {}
+
+c. {}
+
+d. {}
+
+Responde solo con la letra correspondiente: a, b, c o d.
